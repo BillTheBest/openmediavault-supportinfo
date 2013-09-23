@@ -1,0 +1,37 @@
+openmediavault-supportinfo (0.5.5) stable; urgency=low
+
+  * Switch to using support script
+
+ -- Aaron Murray <aaron@omv-extras.org>  Thu, 19 Sep 2013 14:31:38 -0500
+
+openmediavault-supportinfo (0.5.4) stable; urgency=low
+
+  * Added /etc/default/locale output
+
+ -- Aaron Murray <aaron@omv-extras.org>  Mon, 16 Sep 2013 10:31:38 -0500
+
+openmediavault-supportinfo (0.5.3) stable; urgency=low
+
+  * Added locale file
+
+ -- Aaron Murray <aaron@omv-extras.org>  Mon, 16 Sep 2013 07:53:38 -0500
+
+openmediavault-supportinfo (0.5.2) stable; urgency=low
+
+  * Fixed description typo
+  * Changed largest files section to only show from /usr and /var
+
+ -- Aaron Murray <aaron@omv-extras.org>  Mon, 10 Sep 2013 07:58:38 -0500
+
+openmediavault-supportinfo (0.5.1) stable; urgency=low
+
+  * Added more support info
+
+ -- Aaron Murray <aaron@omv-extras.org>  Mon, 09 Sep 2013 11:16:38 -0500
+ 
+openmediavault-supportinfo (0.5.0) stable; urgency=low
+
+  * Initial
+
+ -- Aaron Murray <aaron@omv-extras.org>  Mon, 09 Sep 2013 10:25:38 -0500
+ 
