@@ -17,6 +17,17 @@ f_log "$FILENAME:"
 f_log
 
 # Begin of the script
+
+# test version from David:
+# f_log "/var -> 10 largest files"
+# f_log "--------------------------"
+# du -hsx /* \
+# --exclude=./media \
+# --exclude=./dev \
+# --exclude=./proc \
+# --exclude=./lost+found \
+# | sort -rh | head -10
+
 f_log "/var -> 10 largest files"
 f_log "--------------------------"
 du -hsx /var/* | sort -rh | head -10 2>&1 | tee -a $TMPFILE

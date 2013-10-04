@@ -21,6 +21,17 @@ f_log "cat /etc/apache2/ports.conf"
 f_log "--------------------------"
 cat /etc/apache2/ports.conf 2>&1 | tee -a $TMPFILE
 f_log
+
 f_log "groups openmediavault"
 f_log "--------------------------"
 groups openmediavault 2>&1 | tee -a $TMPFILE
+f_log
+
+f_log "ownership of /var/www/openmediavault"
+f_log "--------------------------"
+ls -la /var/www/openmediavault  2>&1 | tee -a $TMPFILE
+
+f_log
+f_log "cat /etc/passwd"
+f_log "--------------------------"
+cat /etc/passwd  2>&1 | tee -a $TMPFILE

@@ -30,3 +30,8 @@ smbstatus 2>&1 | tee -a $TMPFILE
 f_log "--------------------------"
 f_log
 # eventually list all mounted smb-shares
+
+f_log
+f_log "pdbedit -L"
+f_log "--------------------------"
+pdbedit -L 2>&1 | tee -a $TMPFILE
