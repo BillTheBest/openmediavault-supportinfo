@@ -1,0 +1,4 @@
+usr/share/openmediavault/*  usr/share/openmediavault
+var/www/openmediavault/*    var/www/openmediavault
+etc/omv-support.d/*         etc/omv-support.d
+usr/local/bin/*             usr/local/bin

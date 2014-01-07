@@ -1,3 +1,10 @@
+openmediavault-supportinfo (0.5.7) stable; urgency=low
+
+  * Update locales
+  * Update copyrights
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Tue, 07 Jan 2014 08:05:27 -0500
+
 openmediavault-supportinfo (0.5.6) stable; urgency=low
 
   * Add locales
@@ -34,10 +41,9 @@ openmediavault-supportinfo (0.5.1) stable; urgency=low
   * Added more support info
 
  -- Aaron Murray <aaron@omv-extras.org>  Mon, 09 Sep 2013 11:16:38 -0500
- 
+
 openmediavault-supportinfo (0.5.0) stable; urgency=low
 
   * Initial
 
  -- Aaron Murray <aaron@omv-extras.org>  Mon, 09 Sep 2013 10:25:38 -0500
- 

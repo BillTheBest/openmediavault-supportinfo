@@ -1,7 +1,7 @@
 Source: openmediavault-supportinfo
 Section: misc
 Priority: optional
-Maintainer: Aaron Murray <aaron@omv-extras.org>
+Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
 Build-Depends: debhelper (>= 7 )
 Standards-Version: 3.9.3
 Homepage: http://omv-extras.org/
@@ -9,7 +9,7 @@ Homepage: http://omv-extras.org/
 Package: openmediavault-supportinfo
 Architecture: all
 Depends: ${misc:Depends}, openmediavault (>= 0.5)
-Description: OpenMediaVault support panel 
- This panel shows important information that a 
+Description: OpenMediaVault support panel
+ This panel shows important information that a
  moderator may be looking for when asking
  for support in the OpenMediaVault forum.
