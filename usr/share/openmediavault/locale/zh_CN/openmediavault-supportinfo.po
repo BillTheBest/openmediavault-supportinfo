@@ -3,20 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# SpaceBrain <spacebrain.damage@gmail.com>, 2013
+# dezi121 <by@songming.me>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-supportinfo\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-14 11:46-0600\n"
-"PO-Revision-Date: 2013-11-28 18:20+0000\n"
-"Last-Translator: SpaceBrain <spacebrain.damage@gmail.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/openmediavault-supportinfo/language/fr/)\n"
+"PO-Revision-Date: 2013-12-15 15:26+0000\n"
+"Last-Translator: dezi121 <by@songming.me>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/openmediavault-supportinfo/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Support Info"
-msgstr "Informations sur le support"
+msgstr "支持信息"
