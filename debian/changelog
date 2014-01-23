@@ -1,3 +1,10 @@
+openmediavault-supportinfo (0.5.9) stable; urgency=low
+
+  * Update locales
+  * Add total disk free graph
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Thu, 23 Jan 2014 09:13:27 -0500
+
 openmediavault-supportinfo (0.5.8) stable; urgency=low
 
   * Update locales
