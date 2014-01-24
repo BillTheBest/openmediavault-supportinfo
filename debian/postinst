@@ -27,6 +27,7 @@ set -e
 case "$1" in
 
     configure)
+        omv-mkconf collectd
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
