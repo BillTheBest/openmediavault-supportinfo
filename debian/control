@@ -8,7 +8,7 @@ Homepage: http://omv-extras.org/simple/index.php?id=how-to-install-supportinfo-p
 
 Package: openmediavault-supportinfo
 Architecture: all
-Depends: ${misc:Depends}, openmediavault (>= 0.5), openmediavault (<< 0.6)
+Depends: ${misc:Depends}, openmediavault (>= 0.5.32), openmediavault (<< 0.6)
 Description: OpenMediaVault support panel
  This panel shows important information that a
  moderator may be looking for when asking

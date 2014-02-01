@@ -1,3 +1,10 @@
+openmediavault-supportinfo (0.5.11) stable; urgency=low
+
+  * Update locales
+  * Change dependency to OMV 0.5.32
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Sat, 01 Feb 2014 08:37:27 -0500
+
 openmediavault-supportinfo (0.5.10) stable; urgency=low
 
   * Update locales
